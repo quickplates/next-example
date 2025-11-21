@@ -1,0 +1,10 @@
+services:
+  next-example:
+    build:
+      context: ./
+      network: host
+    environment:
+      - "NEXT_EXAMPLE__DEBUG=${NEXT_EXAMPLE__DEBUG:-true}"
+      - "NEXT_EXAMPLE__SERVER__HOST=${NEXT_EXAMPLE__SERVER__HOST:-0.0.0.0}"
+      - "NEXT_EXAMPLE__SERVER__PORT=${NEXT_EXAMPLE__SERVER__PORT:-3000}"
+    network_mode: host
