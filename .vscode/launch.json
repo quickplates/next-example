@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "next-example",
+      "outputCapture": "std",
+      "request": "launch",
+      "runtimeArgs": ["--node-option=--inspect=9228", "run", "dev"],
+      "runtimeExecutable": "npm",
+      "serverReadyAction": {
+        "action": "debugWithChrome",
+        "killOnServerStop": true,
+        "pattern": "Local:\\s+(\\S+)",
+        "uriFormat": "%s",
+        "webRoot": "${workspaceFolder}"
+      },
+      "type": "node"
+    }
+  ],
+  "version": "0.2.0"
+}
