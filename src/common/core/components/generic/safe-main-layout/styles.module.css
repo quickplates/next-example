@@ -1,0 +1,14 @@
+.outer {
+  height: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+.inner {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
