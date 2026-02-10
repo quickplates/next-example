@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: b018f91
+_src_path: ./
+accountname: quickplates
+appname: next-example
+description: Next.js app example ⚫
+docs: true
+docsurl: https://quickplates.github.io/next-example
+envprefix: NEXT_EXAMPLE
+imagename: apps/next-example
+keyprefix: next-example
+port: 3000
+registry: true
+releases: true
+reponame: next-example
+repourl: https://github.com/quickplates/next-example
