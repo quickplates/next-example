@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true
+  },
+  "extends": [
+    "@tsconfig/bases/recommended",
+    "@tsconfig/bases/node22",
+    "@tsconfig/bases/next"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "build/types/**/*.ts",
+    "src/**/*.js",
+    "src/**/*.cjs",
+    "src/**/*.mjs",
+    "src/**/*.jsx",
+    "src/**/*.ts",
+    "src/**/*.cts",
+    "src/**/*.mts",
+    "src/**/*.tsx"
+  ]
+}
