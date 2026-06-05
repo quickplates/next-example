@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: next-example\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: @lingui/cli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/client/test/components/test-widget/main.tsx:52
+msgid "An unexpected error occurred"
+msgstr "An unexpected error occurred"
+
+#: src/client/test/components/test-widget/components/test-form/main.tsx:25
+msgid "Enter some value"
+msgstr "Enter some value"
+
+#: src/isomorphic/notifications/hooks/use-notifications/main.ts:40
+msgid "Error"
+msgstr "Error"
+
+#: src/app/(root)/error.tsx:11
+msgid "Error • next-example"
+msgstr "Error • next-example"
+
+#: src/app/(root)/layout.tsx:34
+msgid "Next.js app example ⚫"
+msgstr "Next.js app example ⚫"
+
+#: src/app/(root)/(main)/(home)/page.tsx:20
+#: src/app/(root)/layout.tsx:40
+msgid "next-example"
+msgstr "next-example"
+
+#: src/isomorphic/notifications/hooks/use-notifications/main.ts:51
+msgid "Info"
+msgstr "Info"
+
+#: src/client/test/components/test-widget/main.tsx:41
+#: src/client/test/components/test-widget/main.tsx:62
+msgid "Invalid input"
+msgstr "Invalid input"
+
+#: src/app/(root)/not-found.tsx:15
+msgid "Not Found • next-example"
+msgstr "Not Found • next-example"
+
+#: src/isomorphic/core/components/generic/not-found-widget/main.tsx:15
+msgid "Page not found"
+msgstr "Page not found"
+
+#: src/isomorphic/core/components/generic/error-widget/main.tsx:25
+msgid "Retry"
+msgstr "Retry"
+
+#: src/isomorphic/core/components/generic/error-widget/main.tsx:16
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/client/test/components/test-widget/components/test-form/main.tsx:30
+msgid "Submit"
+msgstr "Submit"
+
+#: src/isomorphic/notifications/hooks/use-notifications/main.ts:62
+msgid "Success"
+msgstr "Success"
+
+#: src/isomorphic/notifications/hooks/use-notifications/main.ts:73
+msgid "Warning"
+msgstr "Warning"
+
+#: src/server/orpc/vars/procedures/vars/test/vars/validate/main.ts:27
+msgid "Why did the chicken cross the road? To get to the other side."
+msgstr "Why did the chicken cross the road? To get to the other side."
