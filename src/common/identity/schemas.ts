@@ -1,0 +1,7 @@
+import * as z from "zod";
+
+export const IdentitySchemas = {
+  User: z.object({
+    id: z.string(),
+  }),
+};
