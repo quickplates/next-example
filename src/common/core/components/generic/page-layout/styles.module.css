@@ -1,0 +1,9 @@
+.box {
+  background-color: light-dark(
+    var(--mantine-color-gray-1),
+    var(--mantine-color-dark-7)
+  );
+  height: 100%;
+  padding: 0;
+  width: 100%;
+}
